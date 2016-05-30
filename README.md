@@ -1,2 +1,2 @@
 # hello-world
-Github for Free Code Camp
+I'm setting up a Github for my new endeavor on Free Code Camp
